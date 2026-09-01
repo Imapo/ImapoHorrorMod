@@ -1,3 +1,0 @@
-displayName = Imapo's Limbo Filter System
-author = Imapo
-version = 0.1
