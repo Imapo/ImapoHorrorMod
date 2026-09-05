@@ -1,0 +1,6 @@
+Mods: {
+	ImapoHorrorMod: {
+		NPCs.ShadowStalker.DisplayName: Shadow Stalker
+		Projectiles.BloodParticle.DisplayName: Blood Particle
+	}
+}
